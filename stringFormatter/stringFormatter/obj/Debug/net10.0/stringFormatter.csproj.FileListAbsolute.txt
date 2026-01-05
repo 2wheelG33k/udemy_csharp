@@ -1,0 +1,14 @@
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/obj/Debug/net10.0/stringFormatter.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/obj/Debug/net10.0/stringFormatter.AssemblyInfoInputs.cache
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/obj/Debug/net10.0/stringFormatter.AssemblyInfo.cs
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/obj/Debug/net10.0/stringFormatter.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/bin/Debug/net10.0/stringFormatter
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/bin/Debug/net10.0/stringFormatter.deps.json
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/bin/Debug/net10.0/stringFormatter.runtimeconfig.json
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/bin/Debug/net10.0/stringFormatter.dll
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/bin/Debug/net10.0/stringFormatter.pdb
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/obj/Debug/net10.0/stringFormatter.dll
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/obj/Debug/net10.0/refint/stringFormatter.dll
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/obj/Debug/net10.0/stringFormatter.pdb
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/obj/Debug/net10.0/stringFormatter.genruntimeconfig.cache
+/home/johnv/git-repos/charp_udemy/stringFormatter/stringFormatter/obj/Debug/net10.0/ref/stringFormatter.dll
