@@ -1,0 +1,14 @@
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/obj/Debug/net10.0/ternaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/obj/Debug/net10.0/ternaryOperator.AssemblyInfoInputs.cache
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/obj/Debug/net10.0/ternaryOperator.AssemblyInfo.cs
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/obj/Debug/net10.0/ternaryOperator.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/bin/Debug/net10.0/ternaryOperator
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/bin/Debug/net10.0/ternaryOperator.deps.json
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/bin/Debug/net10.0/ternaryOperator.runtimeconfig.json
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/bin/Debug/net10.0/ternaryOperator.dll
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/bin/Debug/net10.0/ternaryOperator.pdb
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/obj/Debug/net10.0/ternaryOperator.dll
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/obj/Debug/net10.0/refint/ternaryOperator.dll
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/obj/Debug/net10.0/ternaryOperator.pdb
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/obj/Debug/net10.0/ternaryOperator.genruntimeconfig.cache
+/home/johnv/git-repos/charp_udemy/ternaryOperator/ternaryOperator/obj/Debug/net10.0/ref/ternaryOperator.dll
