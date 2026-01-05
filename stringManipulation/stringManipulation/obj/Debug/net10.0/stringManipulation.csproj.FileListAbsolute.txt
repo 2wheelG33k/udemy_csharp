@@ -1,0 +1,14 @@
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/obj/Debug/net10.0/stringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/obj/Debug/net10.0/stringManipulation.AssemblyInfoInputs.cache
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/obj/Debug/net10.0/stringManipulation.AssemblyInfo.cs
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/obj/Debug/net10.0/stringManipulation.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/bin/Debug/net10.0/stringManipulation
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/bin/Debug/net10.0/stringManipulation.deps.json
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/bin/Debug/net10.0/stringManipulation.runtimeconfig.json
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/bin/Debug/net10.0/stringManipulation.dll
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/bin/Debug/net10.0/stringManipulation.pdb
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/obj/Debug/net10.0/stringManipulation.dll
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/obj/Debug/net10.0/refint/stringManipulation.dll
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/obj/Debug/net10.0/stringManipulation.pdb
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/obj/Debug/net10.0/stringManipulation.genruntimeconfig.cache
+/home/johnv/git-repos/charp_udemy/stringManipulation/stringManipulation/obj/Debug/net10.0/ref/stringManipulation.dll
