@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/bin/Debug/net10.0/libraryMgmtSystem
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/bin/Debug/net10.0/libraryMgmtSystem.deps.json
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/bin/Debug/net10.0/libraryMgmtSystem.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/bin/Debug/net10.0/libraryMgmtSystem.dll
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/bin/Debug/net10.0/libraryMgmtSystem.pdb
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/libraryMgmtSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/libraryMgmtSystem.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/libraryMgmtSystem.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/libraryMgmtSystem.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/libraryMgmtSystem.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/libraryMgmtSystem.dll
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/refint/libraryMgmtSystem.dll
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/libraryMgmtSystem.pdb
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/libraryMgmtSystem.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/libraryMgmtSystem/libraryMgmtSystem/obj/Debug/net10.0/ref/libraryMgmtSystem.dll
