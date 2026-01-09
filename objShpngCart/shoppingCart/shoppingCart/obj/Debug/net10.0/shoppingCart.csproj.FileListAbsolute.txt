@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/shoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/shoppingCart.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/shoppingCart.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/shoppingCart.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/shoppingCart.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/bin/Debug/net10.0/shoppingCart
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/bin/Debug/net10.0/shoppingCart.deps.json
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/bin/Debug/net10.0/shoppingCart.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/bin/Debug/net10.0/shoppingCart.dll
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/bin/Debug/net10.0/shoppingCart.pdb
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/shoppingCart.dll
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/refint/shoppingCart.dll
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/shoppingCart.pdb
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/shoppingCart.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/objShpngCart/shoppingCart/shoppingCart/obj/Debug/net10.0/ref/shoppingCart.dll
