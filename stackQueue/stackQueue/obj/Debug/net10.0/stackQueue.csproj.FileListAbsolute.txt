@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/bin/Debug/net10.0/stackQueue
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/bin/Debug/net10.0/stackQueue.deps.json
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/bin/Debug/net10.0/stackQueue.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/bin/Debug/net10.0/stackQueue.dll
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/bin/Debug/net10.0/stackQueue.pdb
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/stackQueue.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/stackQueue.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/stackQueue.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/stackQueue.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/stackQueue.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/stackQueue.dll
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/refint/stackQueue.dll
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/stackQueue.pdb
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/stackQueue.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/stackQueue/stackQueue/obj/Debug/net10.0/ref/stackQueue.dll
