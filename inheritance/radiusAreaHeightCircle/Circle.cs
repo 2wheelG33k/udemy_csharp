@@ -7,4 +7,8 @@ public class Circle
     public void SetRadius(double r)
     {
         Radius = r;}
+    
+    public double GetRadius()
+    {
+        return Radius;} 
 }

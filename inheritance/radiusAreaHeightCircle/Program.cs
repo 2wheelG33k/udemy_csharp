@@ -18,8 +18,9 @@ class Program
         cylinder.CalculateArea();
         cylinder.CalculateVolume();
         
-        Console.WriteLine($"Radius of the circle: {cylinder.GetRadius()});
+        Console.WriteLine($"Radius of the circle: {cylinder.GetRadius()}");
         Console.WriteLine($"Area of the circle: {cylinder.GetArea()}");
+        Console.WriteLine($"Volume of the circle: {cylinder.CalculateVolume()}");
 
     }
 }

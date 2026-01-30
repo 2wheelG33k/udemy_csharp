@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/radiusAreaHeightCircle.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/radiusAreaHeightCircle.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/radiusAreaHeightCircle.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/radiusAreaHeightCircle.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/radiusAreaHeightCircle.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/bin/Debug/net10.0/radiusAreaHeightCircle
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/bin/Debug/net10.0/radiusAreaHeightCircle.deps.json
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/bin/Debug/net10.0/radiusAreaHeightCircle.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/bin/Debug/net10.0/radiusAreaHeightCircle.dll
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/bin/Debug/net10.0/radiusAreaHeightCircle.pdb
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/radiusAreaHeightCircle.dll
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/refint/radiusAreaHeightCircle.dll
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/radiusAreaHeightCircle.pdb
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/radiusAreaHeightCircle.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/inheritance/radiusAreaHeightCircle/obj/Debug/net10.0/ref/radiusAreaHeightCircle.dll

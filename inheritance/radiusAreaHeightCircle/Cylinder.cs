@@ -14,9 +14,10 @@ public class Cylinder : AreaCalculator
         return height;
     }
     
-    public void CalculateVolume()
+    public double CalculateVolume()
     {
         volume = area * height;
+        return volume;
     }
     
 }
